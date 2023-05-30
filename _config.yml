@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "JeromeBetrisey_CV.pdf", title: "CV"}
   - {title: "Publications", url: "https://ui.adsabs.harvard.edu/search/q=%20%20author%3A%22B%C3%A9trisey%2C%20J.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"}
-  - {file: "README.md", title: "About me"}
+  - {file: "AboutMe.md", title: "About me"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
