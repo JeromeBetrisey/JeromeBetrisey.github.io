@@ -18,14 +18,15 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {file: "README.md",title: "About me"}
+  - {file: "JeromeBetrisey_CV.pdf", title: "CV"}
+  - {file: "README.md", title: "About me"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
   - {title: Github, icon: github, url: "https://github.com/JeromeBetrisey"}
   - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0002-6462-3683"}
-  - {title: ADS, icon: "book-open", url:"https://ui.adsabs.harvard.edu"}
-  - {title: University, icon: "up-right-from-square", url:"https://www.unige.ch/sciences/astro/evolution/en/members/jerome-betrisey"}
+  - {title: ADS, icon: book-open, url: "https://ui.adsabs.harvard.edu/search/q=%20%20author%3A%22B%C3%A9trisey%2C%20J.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"}
+  - {title: University, icon: external-link-alt, url: "https://www.unige.ch/sciences/astro/evolution/en/members/jerome-betrisey"}
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
