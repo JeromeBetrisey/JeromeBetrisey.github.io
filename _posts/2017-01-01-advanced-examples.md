@@ -56,7 +56,7 @@ A wrapper `div` with the class `large` can be used to increase the width of an i
 
 [Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
 
-[TEST](/assets/images/Rho.pdf)
+<embed src="/assets/images/Rho.pdf" type="application/pdf">
 
 
 ## Embedded content
