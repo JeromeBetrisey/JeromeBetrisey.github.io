@@ -1,0 +1,24 @@
+---
+title: "Asteroseismic modelling strategies in the PLATO era II. Automation of seismic inversions and quality assessment procedure"
+layout: post
+mathjax: true
+---
+
+<!-- excerpt-end -->
+
+## Context
+
+Asteroseismic modelling will be part of the pipeline of the PLATO mission and will play a key role in the mission precision requirements on stellar mass, radius and age. It is therefore crucial to compare how current modelling strategies perform, and discuss the limitations and remaining challenges for PLATO, such as the so-called surface effects, the choice of physical ingredients, and stellar activity. In this context, we carried out a systematic study of the impact of surface effects on the estimation of stellar parameters. In this work, we demonstrated how combining a mean density inversion with a fit of frequencies separation ratios can efficiently damp the surface effects and achieve precise and accurate stellar parameters for ten *Kepler* LEGACY targets, well within the PLATO mission requirements.
+We applied and compared two modelling approaches, directly fitting the individual frequencies, or coupling a mean density inversion with a fit of the ratios, to six synthetic targets with a patched 3D atmosphere from Sonoi et al. (2015) and ten actual targets from the LEGACY sample. The fit of the individual frequencies is unsurprisingly very sensitive to surface effects and the stellar parameters tend to be biased, which constitutes a fundamental limit to both accuracy and precision. In contrast, coupling a mean density inversion and a fit of the ratios efficiently damps the surface effects, and allows us to get both precise and accurate stellar parameters. The average statistical precision of our selection of LEGACY targets with this second strategy is 1.9% for the mass, 0.7% for the radius, and 4.1% for the age, well within the PLATO requirements. Using the mean density in the constraints significantly improves the precision of the mass, radius and age determinations, on average by 20%, 33%, and 16%, respectively.
+
+This study lead to a publication in *Astronomy & Astrophysics* ([Bétrisey et al. 2023b]([https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..56B/abstract](https://ui.adsabs.harvard.edu/abs/2023A%26A...676A..10B/abstract))) and was presented in several international conferences (...).
+
+
+
+## Highlights
+
+> TBW
+
+
+> TBW
+
